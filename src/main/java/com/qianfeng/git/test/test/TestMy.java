@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestMy {
     @RequestMapping("hello")
     public String hello(){
-        System.out.println("fanhuny");
+        System.out.println("bloodinheart");
         return "hello";
     }
 }
