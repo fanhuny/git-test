@@ -14,6 +14,7 @@ public class TestMy {
     @RequestMapping("hello")
     public String hello(){
         System.out.println("bloodinheart");
+        System.out.println("这是分之");
         return "hello";
     }
 }
